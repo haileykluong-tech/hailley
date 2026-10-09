@@ -1,4 +1,4 @@
-firm,neighborhood,address,yelp_rating,yelp_reviews,practice_area,attorney,email,email_confidence,phone,website,notes
+Firm,Neighborhood,Address,Yelp Rating (stars),Number of Yelp Reviews,Practice Area,Attorney,Email,Email Confidence,Phone,Website,Notes
 Minnis & Smallets LLP,Financial District,"57 Post St Ste 801, SF 94104",4.9,63,Family law,Aaron P. Minnis,aaron@minnisandsmallets.com,Medium,415-551-0883,minnisandsmallets.com,Partner
 Minnis & Smallets LLP,Financial District,"57 Post St Ste 801, SF 94104",4.9,63,Family law,Sonya L. Smallets,sonya@minnisandsmallets.com,Medium,415-551-0885,minnisandsmallets.com,Partner
 Minnis & Smallets LLP,Financial District,"57 Post St Ste 801, SF 94104",4.9,63,Family law,Evan Ross Ettinghoff,evan@minnisandsmallets.com,Medium,415-551-0883,minnisandsmallets.com,Associate
