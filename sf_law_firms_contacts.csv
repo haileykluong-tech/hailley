@@ -1,0 +1,29 @@
+firm,neighborhood,address,yelp_rating,yelp_reviews,practice_area,attorney,email,email_confidence,phone,website,notes
+Minnis & Smallets LLP,Financial District,"57 Post St Ste 801, SF 94104",4.9,63,Family law,Aaron P. Minnis,aaron@minnisandsmallets.com,Medium,415-551-0883,minnisandsmallets.com,Partner
+Minnis & Smallets LLP,Financial District,"57 Post St Ste 801, SF 94104",4.9,63,Family law,Sonya L. Smallets,sonya@minnisandsmallets.com,Medium,415-551-0885,minnisandsmallets.com,Partner
+Minnis & Smallets LLP,Financial District,"57 Post St Ste 801, SF 94104",4.9,63,Family law,Evan Ross Ettinghoff,evan@minnisandsmallets.com,Medium,415-551-0883,minnisandsmallets.com,Associate
+Law Office of Arkady Itkin,Financial District,"57 Post St Ste 812, SF 94104",4.7,133,Personal injury,Arkady Itkin,arkady@arkadylaw.com,Medium,415-640-6765,arkadylaw.com,Solo practice
+Silveira Law,Financial District,"315 Montgomery St Fl 9, SF 94104",4.8,246,Criminal defense,Michael J. Silveira (main office),office@silveiralawfirm.com,Medium,628-946-2233,northerncaliforniacriminaldefense.com,Main office inbox
+Geller Law,Financial District,"315 Montgomery St (Yelp) / 201 Spear St Ste 1100",5.0,169,Criminal defense,Samuel Geller (main office),info@gellerlawsf.com,Medium,,gellerlawsf.com,Main office inbox; address differs between sources
+Law Offices of Nate Kelly,Financial District,"201 Spear St Ste 1100, SF 94105",4.7,12,Business law,Nate Kelly,esquire@natekelly.com,Medium,415-336-3001,natekelly.com,Solo practice
+Sherman Business Law,Financial District / Jackson Sq,"802 Montgomery St, SF 94133",5.0,118,Business law,Steven M. Sherman,steven@shermanbusinesslaw.com,Medium,415-403-1660,shermanbusinesslaw.com,Founder
+Jackson Law Group P.C.,Financial District,"100 Pine St Ste 1250, SF 94111",4.9,41,Business litigation,Aaron R. Jackson,aaron@jacksonlawsf.com,Low,415-379-0560,jacksonlawgrouppc.com,Email domain differs from website domain - verify
+Rahman Law PC,Financial District,"100 Bush St Ste 1580, SF 94104",4.8,22,Employment law,Shaana A. Rahman,shaana@rahmanlawsf.com,Medium,415-956-9245,rahmanlawsf.com,Founder
+Law Offices of Traci M. Hinden,Financial District,"1 Sansome St Ste 1400, SF 94104",4.8,46,Personal injury,Traci M. Hinden,traci@hindenlaw.com,Medium,415-781-3030,hindenlaw.com,Solo practice
+Crow & Rose,Financial District,"605 Market St (Yelp) / PO Box 42038, SF 94140",5.0,44,Tenant law,Dave Crow,dave@tenant-lawyers.com,Medium,415-552-9060,tenant-lawyers.com,Partner
+Wolford Wayne LLP,Financial District,"220 Montgomery St Ste 1100, SF 94104",4.9,211,Tenant law,Jason Wolford / Daniel Wayne,NOT FOUND,,415-649-6203,wolford-wayne.com,Check website contact page
+Jewel & Stoneman,Financial District,"220 Montgomery St, SF 94104",4.8,129,Estate planning,Susan Jewel / Heather Stoneman,NOT FOUND,,415-394-6800,legacylaw.com,Check website contact page
+Ridless Law Office,Financial District,"601 Montgomery St Ste 1100, SF 94111",5.0,24,Business law,Joshua A. Ridless,NOT FOUND,,415-614-2600,ridlesslaw.com,Check website contact page
+The Law Collective,Financial District,"388 Market St, SF",5.0,81,Personal injury / employment,,NOT FOUND,,,lawcollective.com,Check website contact page
+Walkup Melodia Kelly & Schoenberger,Financial District / Chinatown edge,"650 California St, SF 94108",4.8,116,Personal injury,Many attorneys,NOT FOUND,,415-981-7210,walkuplawoffice.com,Uses @walkuplawoffice.com; individual addresses not confirmed
+Steven Adair MacDonald & Partners,Union Square,"870 Market St Ste 500, SF 94102",4.7,237,Real estate / tenant,4 attorneys,NOT FOUND,,415-956-6488,samlaw.net,Check website team page
+Lurkis Joyce & Del Bove LLP,Union Square,"870 Market St, SF 94102",5.0,48,Family law,Sean P. Joyce,sjoyce@ljdfamilylaw.com,Medium,415-399-1460,ljdfamilylaw.com,Partner (SF office)
+Lurkis Joyce & Del Bove LLP,Union Square,"870 Market St, SF 94102",5.0,48,Family law,Houri A. Parsi,hparsi@ljdfamilylaw.com,Medium,415-399-1460,ljdfamilylaw.com,SF office attorney
+The Law Offices of Jason Louie PC,Union Square,"490 Post St Ste 910, SF 94102",4.9,76,Bankruptcy / debt,Jason Louie,jlouie@jllawoffice.com,Medium,415-240-4646,jllawoffice.com,Solo practice
+Minami Tamaki LLP,Union Square,"360 Post St 8th Fl, SF 94108",4.6-4.8,31,Civil rights / employment / immigration,Many attorneys,NOT FOUND,,415-788-9000,minamitamaki.com,Uses @minamitamaki.com; individual addresses not confirmed
+Marc Branco & Partners P.C.,Union Square,"447 Sutter St Ste 811, SF 94108",4.7,27,Landlord-tenant,Marc P. Branco,NOT FOUND,,,marcbrancolaw.com,Check website contact page
+Scherer Smith & Kenny LLP,Union Square,"140 Geary St 7th Fl, SF 94108",4.8,18,HOA / real estate,Brandon D. Smith,bds@sfcounsel.com,Medium,415-433-1099,sfcounsel.com,
+Scherer Smith & Kenny LLP,Union Square,"140 Geary St 7th Fl, SF 94108",4.8,18,HOA / real estate,John B. Lough Jr.,jbl@sfcounsel.com,Medium,415-433-1099,sfcounsel.com,
+Scherer Smith & Kenny LLP,Union Square,"140 Geary St 7th Fl, SF 94108",4.8,18,HOA / real estate,Ryan W. Stahl,rws@sfcounsel.com,Medium,415-433-1099,sfcounsel.com,
+Scherer Smith & Kenny LLP,Union Square,"140 Geary St 7th Fl, SF 94108",4.8,18,HOA / real estate,Jaclyn M. Tran,jaclyn@sfcounsel.com,Medium,415-433-1099,sfcounsel.com,
+Scherer Smith & Kenny LLP,Union Square,"140 Geary St 7th Fl, SF 94108",4.8,18,HOA / real estate,William M. Scherer,bill@sfcounsel.com,Medium,415-433-1099,sfcounsel.com,From ECHO directory listing
